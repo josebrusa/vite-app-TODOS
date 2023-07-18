@@ -11,6 +11,8 @@ const state = {
         new Todo("Piedra del alma"),
         new Todo("Piedra del poder"),
         new Todo("Piedra del tiempo"),
+        new Todo("Piedra del mente"),
+        new Todo("Piedra del realidad"),
     ],
     filter: Filters.All,
 };
